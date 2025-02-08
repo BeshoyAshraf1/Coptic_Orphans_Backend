@@ -1,33 +1,33 @@
 # Coptic_Orphans_Backend
-📌 Job Portal Frontend
+# Job Portal API 🚀
+
+A robust backend API for a job portal application built with .NET Core, following Clean Architecture and best practices.
+
+![.NET](https://img.shields.io/badge/.NET-6.0-blueviolet)
+![SQL Server](https://img.shields.io/badge/SQL_Server-2019-%23CC2927)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-%234479A1)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Features ✨
+- 📋 Job Listings with Pagination
+- 🔍 Job Details by ID
+- 📮 Job Application Submission
+- ✅ Robust Validations
+- ⚙️ Clean Architecture (3-Tier)
+- 🛡️ Error Handling & API Security
+
+## Technologies Used 💻
+
+| Component               | Technology/Pattern                          |
+|-------------------------|---------------------------------------------|
+| **Database**            | ![SQL Server](https://img.icons8.com/color/24/sql-server.png) SQL Server / ![MySQL](https://img.icons8.com/color/24/mysql.png) MySQL |
+| **Backend Framework**   | ![.NET](https://img.icons8.com/color/24/net-framework.png) .NET Core 6 |
+| **ORM**                 | ![EF Core](https://img.icons8.com/color/24/entity-framework.png) Entity Framework Core |
+| **Architecture**        | 3-Tier (BAL/DAL/Web API) + Unit of Work Pattern |
+| **Mapping**             | ![AutoMapper](https://i.imgur.com/5ZQJQ0u.png) AutoMapper |
+| **API Documentation**   | ![Swagger](https://img.icons8.com/color/24/swagger.png) Swagger/OpenAPI |
 
 
 
-🚀 A responsive job portal frontend built using Angular and Bootstrap
 
-🎯 Features
-✅ View available jobs
-✅ View job details
-✅ Apply for a job with a smooth UI experience
 
-🛠️ Technologies Used
-Angular ⚡ (Framework for dynamic UI)
-Bootstrap 🎨 (Responsive and modern design)
-SweetAlert2 💡 (Beautiful popups & alerts)
-Responsive Design 📱 (Mobile-friendly interface)
-
-📂 Project Setup
-
-git clone https://github.com/your-repo/job-portal-frontend.git
-
-cd job-portal-frontend
-
-npm install
-
-ng serve
-
-📸 Screenshots
-![1](https://github.com/user-attachments/assets/fd9f3c05-e00a-4bf9-a685-6e030b1518cb)
-![2](https://github.com/user-attachments/assets/47e54cd5-a401-4ad8-83ad-13c4edb8e759)
-![4](https://github.com/user-attachments/assets/75cd24a1-8f09-4e17-ad34-577cd902c7b1)
-![5](https://github.com/user-attachments/assets/c5499a9a-c3cd-4202-947b-dc05a3b43679)
