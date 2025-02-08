@@ -1,0 +1,406 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\copticorphans\\Task1\\TaskDEPIAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8720D4F5-192F-4ECB-B2E4-811D48B509BD}|TaskBackend.csproj|d:\\copticorphans\\task1\\taskdepiapi\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8720D4F5-192F-4ECB-B2E4-811D48B509BD}|TaskBackend.csproj|solutionrelative:controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8A3C5F-CEF4-46E9-A1BF-9945208F8557}|..\\DAL\\DAL.csproj|d:\\copticorphans\\task1\\dal\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8A3C5F-CEF4-46E9-A1BF-9945208F8557}|..\\DAL\\DAL.csproj|d:\\copticorphans\\task1\\dal\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8A3C5F-CEF4-46E9-A1BF-9945208F8557}|..\\DAL\\DAL.csproj|d:\\copticorphans\\task1\\dal\\repositories\\model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8A3C5F-CEF4-46E9-A1BF-9945208F8557}|..\\DAL\\DAL.csproj|d:\\copticorphans\\task1\\dal\\repositories\\model\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8A3C5F-CEF4-46E9-A1BF-9945208F8557}|..\\DAL\\DAL.csproj|d:\\copticorphans\\task1\\dal\\repositories\\genericrepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8A3C5F-CEF4-46E9-A1BF-9945208F8557}|..\\DAL\\DAL.csproj|d:\\copticorphans\\task1\\dal\\repositories\\genericrepository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8A3C5F-CEF4-46E9-A1BF-9945208F8557}|..\\DAL\\DAL.csproj|d:\\copticorphans\\task1\\dal\\repositories\\applicationdbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC87FDA0-8477-448E-A273-FE238A9B1FA4}|..\\BAL\\BAL.csproj|d:\\copticorphans\\task1\\bal\\viewmodel\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC87FDA0-8477-448E-A273-FE238A9B1FA4}|..\\BAL\\BAL.csproj|d:\\copticorphans\\task1\\bal\\viewmodel\\jobviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC87FDA0-8477-448E-A273-FE238A9B1FA4}|..\\BAL\\BAL.csproj|d:\\copticorphans\\task1\\bal\\viewmodel\\applicationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC87FDA0-8477-448E-A273-FE238A9B1FA4}|..\\BAL\\BAL.csproj|d:\\copticorphans\\task1\\bal\\managers\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC87FDA0-8477-448E-A273-FE238A9B1FA4}|..\\BAL\\BAL.csproj|d:\\copticorphans\\task1\\bal\\managers\\ijobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC87FDA0-8477-448E-A273-FE238A9B1FA4}|..\\BAL\\BAL.csproj|d:\\copticorphans\\task1\\bal\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8720D4F5-192F-4ECB-B2E4-811D48B509BD}|TaskBackend.csproj|d:\\copticorphans\\task1\\taskdepiapi\\taskbackend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8720D4F5-192F-4ECB-B2E4-811D48B509BD}|TaskBackend.csproj|solutionrelative:taskbackend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8720D4F5-192F-4ECB-B2E4-811D48B509BD}|TaskBackend.csproj|d:\\copticorphans\\task1\\taskdepiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8720D4F5-192F-4ECB-B2E4-811D48B509BD}|TaskBackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8720D4F5-192F-4ECB-B2E4-811D48B509BD}|TaskBackend.csproj|d:\\copticorphans\\task1\\taskdepiapi\\taskbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8720D4F5-192F-4ECB-B2E4-811D48B509BD}|TaskBackend.csproj|solutionrelative:taskbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8720D4F5-192F-4ECB-B2E4-811D48B509BD}|TaskBackend.csproj|d:\\copticorphans\\task1\\taskdepiapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8720D4F5-192F-4ECB-B2E4-811D48B509BD}|TaskBackend.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8720D4F5-192F-4ECB-B2E4-811D48B509BD}|TaskBackend.csproj|d:\\copticorphans\\task1\\taskdepiapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8720D4F5-192F-4ECB-B2E4-811D48B509BD}|TaskBackend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8A3C5F-CEF4-46E9-A1BF-9945208F8557}|..\\DAL\\DAL.csproj|d:\\copticorphans\\task1\\dal\\migrations\\20240924171758_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8A3C5F-CEF4-46E9-A1BF-9945208F8557}|..\\DAL\\DAL.csproj|d:\\copticorphans\\task1\\dal\\migrations\\20250208140540_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8A3C5F-CEF4-46E9-A1BF-9945208F8557}|..\\DAL\\DAL.csproj|d:\\copticorphans\\task1\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC87FDA0-8477-448E-A273-FE238A9B1FA4}|..\\BAL\\BAL.csproj|d:\\copticorphans\\task1\\bal\\bal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\copticorphans\\Task1\\DAL\\Repositories\\applicationDBcontext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Repositories\\applicationDBcontext\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\copticorphans\\Task1\\DAL\\Repositories\\applicationDBcontext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\DAL\\Repositories\\applicationDBcontext\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:38:47.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\copticorphans\\Task1\\DAL\\Repositories\\GenericRepository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Repositories\\GenericRepository\\GenericRepository.cs",
+              "ToolTip": "D:\\copticorphans\\Task1\\DAL\\Repositories\\GenericRepository\\GenericRepository.cs",
+              "RelativeToolTip": "..\\DAL\\Repositories\\GenericRepository\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:38:47.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\copticorphans\\Task1\\DAL\\Repositories\\GenericRepository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Repositories\\GenericRepository\\IGenericRepository.cs",
+              "ToolTip": "D:\\copticorphans\\Task1\\DAL\\Repositories\\GenericRepository\\IGenericRepository.cs",
+              "RelativeToolTip": "..\\DAL\\Repositories\\GenericRepository\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:38:47.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Application.cs",
+              "DocumentMoniker": "D:\\copticorphans\\Task1\\DAL\\Repositories\\model\\Application.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Repositories\\model\\Application.cs",
+              "ToolTip": "D:\\copticorphans\\Task1\\DAL\\Repositories\\model\\Application.cs",
+              "RelativeToolTip": "..\\DAL\\Repositories\\model\\Application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T13:41:17.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Job.cs",
+              "DocumentMoniker": "D:\\copticorphans\\Task1\\DAL\\Repositories\\model\\Job.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Repositories\\model\\Job.cs",
+              "ToolTip": "D:\\copticorphans\\Task1\\DAL\\Repositories\\model\\Job.cs",
+              "RelativeToolTip": "..\\DAL\\Repositories\\model\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T13:40:26.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\copticorphans\\Task1\\DAL\\Repositories\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Repositories\\IUnitOfWork.cs",
+              "ToolTip": "D:\\copticorphans\\Task1\\DAL\\Repositories\\IUnitOfWork.cs",
+              "RelativeToolTip": "..\\DAL\\Repositories\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T13:48:07.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\copticorphans\\Task1\\DAL\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "D:\\copticorphans\\Task1\\DAL\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\DAL\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T13:48:23.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobsController.cs",
+              "DocumentMoniker": "D:\\copticorphans\\Task1\\TaskDEPIAPI\\Controllers\\JobsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JobsController.cs",
+              "ToolTip": "D:\\copticorphans\\Task1\\TaskDEPIAPI\\Controllers\\JobsController.cs",
+              "RelativeToolTip": "Controllers\\JobsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T13:53:46.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PagedResponse.cs",
+              "DocumentMoniker": "D:\\copticorphans\\Task1\\BAL\\ViewModel\\PagedResponse.cs",
+              "RelativeDocumentMoniker": "..\\BAL\\ViewModel\\PagedResponse.cs",
+              "ToolTip": "D:\\copticorphans\\Task1\\BAL\\ViewModel\\PagedResponse.cs",
+              "RelativeToolTip": "..\\BAL\\ViewModel\\PagedResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T13:55:17.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JobViewModel.cs",
+              "DocumentMoniker": "D:\\copticorphans\\Task1\\BAL\\ViewModel\\JobViewModel.cs",
+              "RelativeDocumentMoniker": "..\\BAL\\ViewModel\\JobViewModel.cs",
+              "ToolTip": "D:\\copticorphans\\Task1\\BAL\\ViewModel\\JobViewModel.cs",
+              "RelativeToolTip": "..\\BAL\\ViewModel\\JobViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T13:48:40.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationViewModel.cs",
+              "DocumentMoniker": "D:\\copticorphans\\Task1\\BAL\\ViewModel\\ApplicationViewModel.cs",
+              "RelativeDocumentMoniker": "..\\BAL\\ViewModel\\ApplicationViewModel.cs",
+              "ToolTip": "D:\\copticorphans\\Task1\\BAL\\ViewModel\\ApplicationViewModel.cs",
+              "RelativeToolTip": "..\\BAL\\ViewModel\\ApplicationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T13:49:01.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JobManager.cs",
+              "DocumentMoniker": "D:\\copticorphans\\Task1\\BAL\\managers\\JobManager.cs",
+              "RelativeDocumentMoniker": "..\\BAL\\managers\\JobManager.cs",
+              "ToolTip": "D:\\copticorphans\\Task1\\BAL\\managers\\JobManager.cs",
+              "RelativeToolTip": "..\\BAL\\managers\\JobManager.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowBMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T13:50:22.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IJobManager.cs",
+              "DocumentMoniker": "D:\\copticorphans\\Task1\\BAL\\managers\\IJobManager.cs",
+              "RelativeDocumentMoniker": "..\\BAL\\managers\\IJobManager.cs",
+              "ToolTip": "D:\\copticorphans\\Task1\\BAL\\managers\\IJobManager.cs",
+              "RelativeToolTip": "..\\BAL\\managers\\IJobManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T13:50:15.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "D:\\copticorphans\\Task1\\BAL\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "..\\BAL\\AutoMapper\\AutoMapperProfile.cs",
+              "ToolTip": "D:\\copticorphans\\Task1\\BAL\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "..\\BAL\\AutoMapper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:38:47.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TaskBackend.http",
+              "DocumentMoniker": "D:\\copticorphans\\Task1\\TaskDEPIAPI\\TaskBackend.http",
+              "RelativeDocumentMoniker": "TaskBackend.http",
+              "ToolTip": "D:\\copticorphans\\Task1\\TaskDEPIAPI\\TaskBackend.http",
+              "RelativeToolTip": "TaskBackend.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-08T21:43:52.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\copticorphans\\Task1\\TaskDEPIAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\copticorphans\\Task1\\TaskDEPIAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:38:47.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TaskBackend.csproj",
+              "DocumentMoniker": "D:\\copticorphans\\Task1\\TaskDEPIAPI\\TaskBackend.csproj",
+              "RelativeDocumentMoniker": "TaskBackend.csproj",
+              "ToolTip": "D:\\copticorphans\\Task1\\TaskDEPIAPI\\TaskBackend.csproj",
+              "RelativeToolTip": "TaskBackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-07T14:38:46.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\copticorphans\\Task1\\TaskDEPIAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\copticorphans\\Task1\\TaskDEPIAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T16:45:25.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\copticorphans\\Task1\\TaskDEPIAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\copticorphans\\Task1\\TaskDEPIAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-07T14:38:47.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240924171758_init1.cs",
+              "DocumentMoniker": "D:\\copticorphans\\Task1\\DAL\\Migrations\\20240924171758_init1.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Migrations\\20240924171758_init1.cs",
+              "ToolTip": "D:\\copticorphans\\Task1\\DAL\\Migrations\\20240924171758_init1.cs",
+              "RelativeToolTip": "..\\DAL\\Migrations\\20240924171758_init1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:38:47.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250208140540_init2.cs",
+              "DocumentMoniker": "D:\\copticorphans\\Task1\\DAL\\Migrations\\20250208140540_init2.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Migrations\\20250208140540_init2.cs",
+              "ToolTip": "D:\\copticorphans\\Task1\\DAL\\Migrations\\20250208140540_init2.cs",
+              "RelativeToolTip": "..\\DAL\\Migrations\\20250208140540_init2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:05:41.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DAL",
+              "DocumentMoniker": "D:\\copticorphans\\Task1\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "..\\DAL\\DAL.csproj",
+              "ToolTip": "D:\\copticorphans\\Task1\\DAL\\DAL.csproj",
+              "RelativeToolTip": "..\\DAL\\DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-08T14:50:24.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BAL",
+              "DocumentMoniker": "D:\\copticorphans\\Task1\\BAL\\BAL.csproj",
+              "RelativeDocumentMoniker": "..\\BAL\\BAL.csproj",
+              "ToolTip": "D:\\copticorphans\\Task1\\BAL\\BAL.csproj",
+              "RelativeToolTip": "..\\BAL\\BAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-08T13:52:53.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

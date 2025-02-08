@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "e3I6JkVYN5yzpnLubS9RTS/qVDjZtojMSo+R0u9//V4=",
+  "Source": "TaskBackend",
+  "BasePath": "_content/TaskBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TaskBackend\\wwwroot",
+      "Source": "TaskBackend",
+      "ContentRoot": "D:\\copticorphans\\Task1\\TaskDEPIAPI\\wwwroot\\",
+      "BasePath": "_content/TaskBackend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
