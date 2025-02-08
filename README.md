@@ -3,10 +3,9 @@
 
 A robust backend API for a job portal application built with .NET Core, following Clean Architecture and best practices.
 
-![.NET](https://img.shields.io/badge/.NET-6.0-blueviolet)
+![.NET](https://img.shields.io/badge/.NET-8.0-blueviolet)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-2019-%23CC2927)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-%234479A1)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ## Features ✨
 - 📋 Job Listings with Pagination
@@ -20,14 +19,32 @@ A robust backend API for a job portal application built with .NET Core, followin
 
 | Component               | Technology/Pattern                          |
 |-------------------------|---------------------------------------------|
-| **Database**            | ![SQL Server](https://img.icons8.com/color/24/sql-server.png) SQL Server / ![MySQL](https://img.icons8.com/color/24/mysql.png) MySQL |
-| **Backend Framework**   | ![.NET](https://img.icons8.com/color/24/net-framework.png) .NET Core 6 |
-| **ORM**                 | ![EF Core](https://img.icons8.com/color/24/entity-framework.png) Entity Framework Core |
+| **Database**            | SQL Server
+| **Backend Framework**   | ![.NET](https://img.icons8.com/color/24/net-framework.png) .NET Core 8 |
+| **ORM**                 | Entity Framework Core |
 | **Architecture**        | 3-Tier (BAL/DAL/Web API) + Unit of Work Pattern |
-| **Mapping**             | ![AutoMapper](https://i.imgur.com/5ZQJQ0u.png) AutoMapper |
-| **API Documentation**   | ![Swagger](https://img.icons8.com/color/24/swagger.png) Swagger/OpenAPI |
+| **Mapping**             | AutoMapper |
+| **API Documentation**   | Swagger |
 
 
+## API Endpoints 📡
 
+| Endpoint                | Method   | Description                      | Example Request                  |
+|-------------------------|----------|----------------------------------|-----------------------------------|
+| `/api/Jobs`             | `GET`    | 📃 Get paginated job listings    | `GET /api/Jobs?pageNumber=1&pageSize=10` |
+| `/api/Jobs/{id}`        | `GET`    | 🔍 Get job details by ID         | `GET /api/Jobs/5`                |
+| `/api/Jobs/apply`     | `POST`   | 📮 Submit job application        | `POST /api/apply`         |
 
+## 🚀 Setup & Run  
+
+### 1️⃣ Clone the Repository  
+
+git clone https://github.com/your-repo/job-portal-backend.git
+
+### 2️⃣ Configure the Database
+
+- Update connection string in appsettings.json
+- Run migrations to set up the database
+- update-database
+### 3️⃣ Run the Backend Project
 
