@@ -39,7 +39,7 @@ A robust backend API for a job portal application built with .NET Core, followin
 
 ### 1️⃣ Clone the Repository  
 
-git clone https://github.com/your-repo/job-portal-backend.git
+https://github.com/BeshoyAshraf1/Coptic_Orphans_Backend.git
 
 ### 2️⃣ Configure the Database
 
